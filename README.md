@@ -19,9 +19,9 @@ Favorite Video Games:
 
 My Bag 🎒:
 - Putting Putters: Discraft Lunas
-- Throwing Putters: MVP Atom, Prodegy A5, Discraft Zone
+- Throwing Putters: MVP Atom, Prodigy A5, Discraft Zone
 - Midranges: Discraft Rubber Blend Buzz SS, MVP Glow Detour, Axiom Pyro
-- Fairway Drivers: Axiom Rythem, Discmania FD, Discraft Raptor
+- Fairway Drivers: Axiom Rhythm, Discmania FD, Discraft Raptor
 - Distance Drivers: DGA Sail, Innova Wraith
     
 
