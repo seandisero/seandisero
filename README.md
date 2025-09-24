@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I worked previously in the video games industry for just under 7 years, during that time I gained decent experience with Python, deveoping tools for DCC programs like Autodesk Maya, and doing misc tasks in C++ in Unreal Engine. For a part of those years I was a Lighting Artist focusing on realtime lighting stratagies for third person games. Programming eventually won over my interests, and now I spend my time trying to develop that skill.
+I worked previously in the video games industry for just under 7 years, during that time I gained decent experience with Python, deveoping tools for DCC programs like Autodesk Maya, and doing misc tasks in C++ in Unreal Engine. I also spent a lot of time in C# when working on personal projects in Unity. For a part of those years I was a Lighting Artist focusing on realtime lighting stratagies for third person games. Programming eventually won over my interests, and now I spend my time trying to develop that skill.
 
 - I am currently on a mission to change careers and move into programming full time, and out of the games industry.
 - I am currently learning go as a primary language for developing my skills as a programmer.
