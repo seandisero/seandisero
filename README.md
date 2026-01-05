@@ -17,7 +17,8 @@ Favorite Video Games:
 - Elden Ring
 - Skyrim
 - Planetside 2
-
+  
+<!--
 🥏 when going outside, Disc Golf is my game:
 
 My Bag 🎒:
@@ -28,7 +29,6 @@ My Bag 🎒:
 - Distance Drivers: 2x Innova Wraith
     
 
-<!--
 **seandisero/seandisero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
